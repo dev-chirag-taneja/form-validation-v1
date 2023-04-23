@@ -1,4 +1,4 @@
-# React Authentication App
+# Form Validation App
 
 [![React Version](https://img.shields.io/badge/reactjs-18.2-lightblue.svg)](https://djangoproject.com)
 [![Node Version](https://img.shields.io/badge/nodejs-18.15-darkgreen.svg)](https://python.org)
